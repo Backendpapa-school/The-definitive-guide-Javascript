@@ -1,2 +1,1 @@
-# The-definitive-guide-Javascript
-Javascrpt
+# The Definitive Guide:Javascript
